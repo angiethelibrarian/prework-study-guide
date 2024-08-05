@@ -1,6 +1,8 @@
 # Angie's Prework Study Guide
 
-## This Prework Study guide was created for boot camp students who are going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. 
+## Description
+
+This Prework Study guide was created for boot camp students who are going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript. 
 
 - My motivation is that I am finally taking what I have wanted to do for a long time and I am putting it into practice. I am going to put the work into it.
 - This project provided me with an outline and introduction to the growth mindset and the logic that goes into becoming a web developer and overall computer programmer. 
